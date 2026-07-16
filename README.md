@@ -56,7 +56,7 @@ The following cleaning steps were performed:
 
 ### Data Modeling
 
-A single fact table was used because the dataset is already well structured.
+Double fact table was used because the dataset is already well structured.
 
 Relationships were verified before creating visuals.
 
@@ -128,7 +128,7 @@ Some insights from the dashboard include:
 
 ### Dashboard Preview
 
-
+![Dashboard Preview](Adidas-dashboard1.png)
 ![Dashboard Preview](Adidas-dashboard2.png)
 
 
