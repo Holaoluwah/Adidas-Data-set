@@ -1,4 +1,4 @@
-# Adidas-Data-set
+# Adidas-Sales-Analysis
 This project presents an interactive Adidas US Sales Analysis Dashboard developed in Power BI. The dataset was cleaned and transformed using Power Query, followed by the creation of DAX measures and interactive visualizations to analyze sales performance, operating profit, product performance, regional trends, retailer performance, and sales methods. The dashboard enables users to explore key business metrics through dynamic filters and KPI cards, supporting data-driven decision-making.
 
 
