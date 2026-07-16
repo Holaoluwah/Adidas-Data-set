@@ -128,7 +128,7 @@ Some insights from the dashboard include:
 
 ### Dashboard Preview
 
-![Dashboard Preview](Dashboard-Adidasview.png)
+
 ![Dashboard Preview](Adidas-dashboard2.png)
 
 
